@@ -1,0 +1,122 @@
+<!-- ==================== HEADER ==================== -->
+
+<h1 align="center">Hi 👋, I'm Natasha Sebastian</h1>
+<h3 align="center">AI/ML Engineer • Agentic Systems • Multimodal AI</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=0A66C2&center=true&vCenter=true&width=600&lines=======Building+AI+Agents+that+actually+work+in+production;RAG+%2B+LLMs+%2B+Real+World+Applications;From+Models+%E2%86%92+Full+Systems+%F0%9F%9A%80" />
+</p>
+
+---
+
+<!-- ==================== SOCIALS ==================== -->
+
+<p align="center">
+  <a href="https://natashasebastian.tech/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/natasha-sebastian/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/natashagit">
+    <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<!-- ==================== ABOUT ==================== -->
+
+## 🚀 About Me  
+
+- 🧠 Building **LLM agents, RAG systems, and multimodal AI pipelines**  
+- 🏥 Shipped production AI in **healthcare, CV, and automation**  
+- ⚡ Focused on **end-to-end AI systems (infra + models + UX)**  
+- 🎓 MS Computer Science @ NYU  
+
+---
+
+<!-- ==================== TECH STACK ==================== -->
+
+## 🛠️ Tech Stack  
+
+### 💻 Languages
+<p>
+<img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/sql-%2300748F.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
+</p>
+
+### 🤖 AI / ML / GenAI
+<p>
+<img src="https://img.shields.io/badge/pytorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/huggingface-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/langchain-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/langgraph-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-Systems-blueviolet?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLM-Agents-orange?style=for-the-badge"/>
+</p>
+
+### ⚙️ Backend / Infra
+<p>
+<img src="https://img.shields.io/badge/fastapi-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+
+### ☁️ Cloud & Data
+<p>
+<img src="https://img.shields.io/badge/aws-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/gcp-%234285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/pinecone-00BFFF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/qdrant-DC244C?style=for-the-badge"/>
+</p>
+
+---
+
+<!-- ==================== PROJECTS ==================== -->
+
+## 🚀 Featured Projects  
+
+### 🎙️ Medical Scheduling & Voice Agent  
+AI agent that routes patients + books appointments  
+→ Handles **multi-step workflows with real-time voice integration**  
+
+---
+
+### 🤖 AI Pre-Screening Platform  
+Autonomous AI interviewer using **real-time voice agents (WebRTC)**  
+→ Saves **30+ hours/week** of recruiter time  
+
+---
+
+### 🏥 Clinical Documentation Assistant  
+AI system that generates **SOAP notes from conversations**  
+→ Reduced documentation time by **70%**  
+
+---
+
+
+<!-- ==================== FOCUS ==================== -->
+
+## ⚡ Current Focus  
+
+- Production-grade **AI agents**  
+- Scaling **RAG + retrieval systems**  
+- Building **AI products end-to-end**  
+
+---
+
+<!-- ==================== FOOTER ==================== -->
+
+## 💡 Philosophy  
+> I build AI that actually ships, and I'm obsessed with moving prototypes to the real world!
+
+---
+
+## 📬 Reach Out  
+Open to:
+- AI/ML roles  
+- Startup opportunities  
+- Interesting problems 🚀  
