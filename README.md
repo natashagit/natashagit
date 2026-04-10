@@ -58,6 +58,7 @@
 
 ---
 
+
 <!-- ==================== PROJECTS ==================== -->
 
 ## 🚀 Featured Projects  
@@ -90,16 +91,3 @@ AI system that generates **SOAP notes from conversations**
 - Building **AI products end-to-end**  
 
 ---
-
-<!-- ==================== FOOTER ==================== -->
-
-## 💡 Philosophy  
-> I build AI that actually ships, and I'm obsessed with moving prototypes to the real world!
-
----
-
-## 📬 Reach Out  
-Open to:
-- AI/ML roles  
-- Startup opportunities  
-- Interesting problems 🚀  
