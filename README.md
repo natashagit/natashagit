@@ -81,14 +81,5 @@
       <br />
       Real-time AI interviewer that automates recruiter phone screens.
     </td>
-    <td align="center" width="33%">
-      <a href="https://progonomix.com/">
-        <img src="./assets/clinical-docs-banner.png" width="100%" alt="Clinical Documentation Assistant" />
-      </a>
-      <br /><br />
-      <strong>🏥 Clinical Documentation Assistant</strong>
-      <br />
-      SOAP-note generation and clinical workflow automation.
-    </td>
   </tr>
 </table>
