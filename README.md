@@ -59,35 +59,36 @@
 ---
 
 
-<!-- ==================== PROJECTS ==================== -->
+## 🚀 Featured Projects
 
-## 🚀 Featured Projects  
-
-### 🎙️ Medical Scheduling & Voice Agent  
-AI agent that routes patients + books appointments  
-→ Handles **multi-step workflows with real-time voice integration**  
-
----
-
-### 🤖 AI Pre-Screening Platform  
-Autonomous AI interviewer using **real-time voice agents (WebRTC)**  
-→ Saves **30+ hours/week** of recruiter time  
-
----
-
-### 🏥 Clinical Documentation Assistant  
-AI system that generates **SOAP notes from conversations**  
-→ Reduced documentation time by **70%**  
-
----
-
-
-<!-- ==================== FOCUS ==================== -->
-
-## ⚡ Current Focus  
-
-- Production-grade **AI agents**  
-- Scaling **RAG + retrieval systems**  
-- Building **AI products end-to-end**  
-
----
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://health.prelude.team/">
+        <img src="./assets/medical-scheduling-banner.png" width="100%" alt="Medical Scheduling & Voice Agent" />
+      </a>
+      <br /><br />
+      <strong>🎙️ Medical Scheduling & Voice Agent</strong>
+      <br />
+      AI agent for patient routing, booking, and voice-based workflows.
+    </td>
+    <td align="center" width="33%">
+      <a href="https://prelude.team/">
+        <img src="./assets/prescreening-banner.png" width="100%" alt="AI Pre-Screening Platform" />
+      </a>
+      <br /><br />
+      <strong>🤖 AI Pre-Screening Platform</strong>
+      <br />
+      Real-time AI interviewer that automates recruiter phone screens.
+    </td>
+    <td align="center" width="33%">
+      <a href="https://progonomix.com/">
+        <img src="./assets/clinical-docs-banner.png" width="100%" alt="Clinical Documentation Assistant" />
+      </a>
+      <br /><br />
+      <strong>🏥 Clinical Documentation Assistant</strong>
+      <br />
+      SOAP-note generation and clinical workflow automation.
+    </td>
+  </tr>
+</table>
