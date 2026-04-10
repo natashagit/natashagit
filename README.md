@@ -38,40 +38,23 @@
 
 <!-- ==================== TECH STACK ==================== -->
 
-## 🛠️ Tech Stack  
+## 🧰 Toolbox  
 
-### 💻 Languages
-<p>
-<img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/sql-%2300748F.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
-</p>
+### 🤖 AI / ML
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/pytorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/huggingface-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/langchain-000000?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/langgraph-000000?style=for-the-badge)
 
-### 🤖 AI / ML / GenAI
-<p>
-<img src="https://img.shields.io/badge/pytorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/huggingface-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/langchain-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/langgraph-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG-Systems-blueviolet?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LLM-Agents-orange?style=for-the-badge"/>
-</p>
+### ⚙️ Systems
+![FastAPI](https://img.shields.io/badge/fastapi-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-### ⚙️ Backend / Infra
-<p>
-<img src="https://img.shields.io/badge/fastapi-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</p>
-
-### ☁️ Cloud & Data
-<p>
-<img src="https://img.shields.io/badge/aws-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/gcp-%234285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/pinecone-00BFFF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/qdrant-DC244C?style=for-the-badge"/>
-</p>
+### ☁️ Data & Infra
+![AWS](https://img.shields.io/badge/aws-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Pinecone](https://img.shields.io/badge/pinecone-%2300BFFF.svg?style=for-the-badge)
 
 ---
 
